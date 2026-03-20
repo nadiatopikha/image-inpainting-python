@@ -83,7 +83,7 @@ Speedup: ~3.13x
 
 ## Visualization Examples
 
-![Original](screenshots/original_image.png)  
+![Original](screenshots/original_image.jpg)  
 ![Damaged](screenshots/damaged_image.png)  
 ![Restored Parallel](screenshots/restored-parallel.png)  
 ![Restored Sequential](screenshots/sequential_restored_image.png)  
